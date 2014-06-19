@@ -14,7 +14,7 @@ function scrap($grandparent = 0, $parent = 0) {
 				"Accept-Language: en\r\n".
 				"Referer: ".$url.'/'.$script."\r\n".
 				"Cookie: gov2portal=cookie%5Bid%5D%3D; _ga=GA1.3.643454968.1403167841\r\n",
-			"proxy" => "tcp://127.0.0.1:3128",
+			//"proxy" => "tcp://127.0.0.1:3128",
 		),
 	);
 
