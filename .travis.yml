@@ -3,6 +3,6 @@ language: php
 php:
 	- 5.5
 
-before_install: sudo apt-get update
+# before_install: sudo apt-get update
 
 script: php php-scraping.php
