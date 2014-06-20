@@ -31,3 +31,5 @@ function scrap($grandparent = 0, $parent = 0) {
 
 
 echo scrap();
+
+exit(0);
