@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ganiutomo/data-kpu-wil-pilpres.svg?branch=develop)](https://travis-ci.org/ganiutomo/data-kpu-wil-pilpres)
+
 #Data KPU
 
 ##Daftar Wilayah Pemilihan Presiden
